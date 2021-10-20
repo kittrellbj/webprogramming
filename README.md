@@ -3,5 +3,7 @@ These are sample projects from my web programming concepts class. Most of them w
 
 # Description of Contents:
 *FoodCollector.py* - Collects input about the user's favorite foods.
+
 *TipCalc.py* - Collects input about the user's bill and returns the appropriate tip.
+
 *CarSales.py* - Collects input about the car involved in the sale and returns the total cost.
